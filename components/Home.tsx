@@ -216,29 +216,6 @@ export function Home() {
           {txt4}
         </motion.p>
 
-        {/* dress code */}
-        <div className=" text-vrayi">
-          <motion.h3
-            {...anim}
-            className="FontSHK_Dzeragir font-bold text-3xl my-20 "
-          >
-            Dress Code
-          </motion.h3>
-
-          <motion.p
-            {...anim}
-            className="FontSHK_Dzeragir text-2xl tracking-widest mb-20"
-          >
-            {txt5}
-          </motion.p>
-          <Image
-            src="/img3.jpg"
-            width={500}
-            height={500}
-            alt="jamanak"
-            className="w-[70%] mx-auto "
-          />
-        </div>
 
         <motion.p {...anim} className=" text-2xl my-10 ">
           {txt6}
