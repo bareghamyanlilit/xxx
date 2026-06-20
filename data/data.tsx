@@ -79,4 +79,4 @@ export const anim: any = {
   viewport: { once: true },
 };
 
-export const rsvp = "";
+export const rsvp = "https://script.google.com/macros/s/AKfycbwYnkf0KvkytYktYglAiwVWnEWDslGw04WBae5oKN3hMNgl_KIhuSzOVUCZzd6pKSu0Xg/exec";
